@@ -86,15 +86,15 @@ findMostFrequentWord: Uses a frequency map to find the word with the highest occ
 
 findLongestWord: Iterates through the word list to find the longest word.
 
-## Example Usage
+# Example Usage
 
-# Input Text:
+## Input Text:
 
 React is a JavaScript library.
 It is used for building user interfaces.
 React focuses on reusable components.
 
-# Output Statistics:
+## Output Statistics:
 
 Word Count: 15
 
@@ -110,6 +110,6 @@ Most Frequent Word: React
 
 Longest Word: interfaces
 
-**Conclusion**
+# Conclusion
 
 This application provides an easy and efficient way to analyze textual data. The modular approach ensures extensibility, allowing developers to add new features or modify existing ones as needed.
