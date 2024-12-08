@@ -1,3 +1,7 @@
+# Text Analaysis Live Demo
+
+https://786hlathuzar.github.io/text-analysis/
+
 # Overview
 
 The Text Analysis Application is designed to analyze a given text input and provide key statistics, such as word count, character count, sentence count, paragraph count, and more. It also identifies the most frequent word and the longest word in the text.
